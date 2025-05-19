@@ -1,0 +1,28 @@
+# Ignorar arquivos sensíveis e desnecessários
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Streamlit cache
+.cache/
+
+# Ambiente virtual
+venv/
+.env
+.env.*
+
+# Credenciais e dados
+client_secret.json
+*.json
+
+# Arquivos do sistema
+.DS_Store
+*.swp
+
+# IDEs
+.vscode/
+.idea/

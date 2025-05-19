@@ -18,7 +18,7 @@ Um agente inteligente que entende comandos em linguagem natural para gerenciar t
 git clone https://github.com/seu-usuario/agente-pessoal.git
 cd agente-pessoal
 
-### 1. Clone o repositório
+### 2. Clone o repositório
 
 Crie um .env com sua chave da OpenAI e credenciais do Google Calendar:
 
